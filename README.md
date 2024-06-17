@@ -8,11 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# TOPICS:
+# TOPIC:
 
 Create a cart page with per item price , per item quantity, Total quantity and total amount
 
-#Functionalities Required
+# Functionalities Required:
 
 It needs to increase or decrease the per unit quantity, which should automatically update the total Quantity and Amount.
 
