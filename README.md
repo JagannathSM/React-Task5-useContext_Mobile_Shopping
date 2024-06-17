@@ -18,7 +18,7 @@ It needs to increase or decrease the per unit quantity, which should automatical
 
 #HOW TO USE:
 
-1. Starting with HomePage - we got list of Items displayed in Cards we can add to cart or remove the added item from cart and by clicking the img we get detail discription of the product.
+1. Starting with HomePage - got list of Items displayed in Cards we can add to cart or remove the items from cart and by clicking the img we get detail discription of the product.
 2. When we add or remove cart items the cart value will increses or decreases.
-3. Add Products to Cart --> Cart Page --> we can get the total cart amount of the cart items.
-4. When checkout cart list got updated to start point again and user will redirected to homepage automatically or by closing the snackbar msg.
+3. Add Products to Cart --> Cart Page --> user will get the total cart amount of the cart items per quantity.
+4. When 'checkout' cart list will get reset and user will redirected to homepage automatically or by closing the snackbar msg.
