@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#TOPICS:
+# TOPICS:
 
 Create a cart page with per item price , per item quantity, Total quantity and total amount
 
@@ -16,7 +16,7 @@ Create a cart page with per item price , per item quantity, Total quantity and t
 
 It needs to increase or decrease the per unit quantity, which should automatically update the total Quantity and Amount.
 
-#HOW TO USE:
+# HOW TO USE:
 
 1. Starting with HomePage - got list of Items displayed in Cards we can add to cart or remove the items from cart and by clicking the img we get detail discription of the product.
 2. When we add or remove cart items the cart value will increses or decreases.
